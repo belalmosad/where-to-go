@@ -1,4 +1,4 @@
-# where-to-go
+# Where To Go
 #### Where to go is a web application that suggests the places to travel to based on current weather in it.
 
 # Why i Did this ? 
