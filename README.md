@@ -7,5 +7,5 @@
 # Technologies used
 #### I used for front end => HTML5, CSS3, Javascript
 #### and for the backend => Flask/Python
-#### API => Open Weather [Map API ](https://openweathermap.org/api)
+#### API => [Open Weather Map API ](https://openweathermap.org/api)
 
