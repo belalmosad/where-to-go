@@ -1,0 +1,76 @@
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: Roboto;
+    background-color:#333;
+    color: #ffffff;
+    text-align: center;
+
+    background-image: url('resources/background.jpg');
+    
+    height: 85vh;
+    
+    
+  /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+header{
+    height: 15vh;
+    padding-top: 50px;
+}
+.logo {
+    float: left;
+    
+}
+.logo h1 a {
+    color: #ffffff;
+    text-decoration: none;
+    display: inline;
+    margin-left: 50px;;
+}
+.logo  :hover {
+    color: 02B3E4;
+    transition: 300ms;
+    border: 5px solid white;
+    padding: 10px;
+
+}
+.navigate {
+    float: right;
+    margin-left: 250px;
+}
+.navigate li  {
+    list-style: none;
+    display: inline;
+    padding-top: 10px;
+    margin-right: 15px;
+    margin-right: 50px;;
+
+    
+}
+.navigate li a {
+    text-decoration: none;
+    color: #ffffff;   
+    font-weight: 700;
+}
+
+.navigate li a:hover {
+    color: 02B3E4;
+    transition: 300ms;
+    border: 3px solid white;
+    padding: 3px;;
+}
+
+.entry p {
+    font-weight: 1000;
+    text-align: center;
+    padding-top: 177px;
+    font-size: 30px;
+}
+
